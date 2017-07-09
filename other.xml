@@ -1,0 +1,20 @@
+<application>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>dfc8df9cdf9fdf9adf98dfcfdfccdf93df9bdfc8df9ddf9cdfc8df9cdf99dfc9dfcedf93df93df9edfcfdf9cdfcedf93df9bdf93df9fdf9fdf9ddfcfdf9fdf9ddfcfdf9adfcbdfccdf98dfcbdf9fdfc8</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="StephenAArredondo" />
+      <option name="repoName" value="RoostersCafeBistro" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+</application>
