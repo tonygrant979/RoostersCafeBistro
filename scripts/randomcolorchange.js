@@ -12,4 +12,12 @@ function changeColor() {
     this.style.color = '#' + Math.floor(Math.random() * 16777215).toString(16);
 }
 
+function toggleImg() {
+
+    var img = document.getElementById("bannerImg");
+    var isImageVisible = (img.style.visibility != "visible");
+    img.style.visibility = isImageVisible ? "visible" : "hidden";
+
+}
+
 onload = init;

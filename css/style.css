@@ -18,7 +18,7 @@ a:active {
 
 a:visited {
 
-    color: #989898;
+    color: red;
 
 }
 
@@ -35,4 +35,11 @@ div#wrapper {
     width: 800px;
     height: 2000px;
 
+}
+
+header {
+
+    margin: auto;
+    width: auto;
+    height: auto;
 }
